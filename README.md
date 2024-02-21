@@ -1,1 +1,1 @@
-# VideoMate - Modern Youtube 2.0
+# VideoTube - Modern Youtube 2.0
